@@ -10,7 +10,7 @@ With this stack of technologies, we would like you to build an app that can be s
 
 ** For Bonus Points **
 
-I would like you to add another functionality that would allow the user to update an item already listed on the page, you can implement the backend and frontend design how ever you prefer.
+I would like you to add more functionality that would allow the user to update an item already listed on the page, you can implement the backend and frontend design how ever you prefer.
 
 ### Requirements
 
